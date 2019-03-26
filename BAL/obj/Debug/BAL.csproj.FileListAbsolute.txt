@@ -1,0 +1,14 @@
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\BAL.dll.config
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\BAL.dll
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\BAL.pdb
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\BEL.dll
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\DAL.dll
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\BEL.pdb
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\BEL.dll.config
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\DAL.pdb
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\bin\Debug\DAL.dll.config
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\obj\Debug\BAL.csprojAssemblyReference.cache
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\obj\Debug\BAL.csproj.CopyComplete
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\obj\Debug\BAL.dll
+C:\Users\Madhur_geek\source\repos\WithNTier\BAL\obj\Debug\BAL.pdb
